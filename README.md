@@ -47,7 +47,7 @@ Each LED is driven through a 220 Ω current-limiting resistor and connected thro
 | Yellow LED | 1 |
 | Green LED | 1 |
 | 220 Ω Resistor | 3 |
-| 1x4 Header Connector | 1 |
+| 1×4 Header Connector | 1 |
 
 ## Project Files
 
