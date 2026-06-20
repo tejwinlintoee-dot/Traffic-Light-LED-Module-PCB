@@ -28,6 +28,9 @@ Each LED is driven through a 220 Ω current-limiting resistor and connected thro
 ## 3D View
 
 ![3D View](KiCad/pcb-3d-view.png)
+
+## 3D View
+
 ![3D View](KiCad/pcb-3d-view-components.png)
 
 ## Schematic
